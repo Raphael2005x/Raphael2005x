@@ -1,4 +1,8 @@
 # Me chamo Raphael Zibetti Resko, sou estudante de programação com foco em Java. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
+
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
