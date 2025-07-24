@@ -1,4 +1,4 @@
-# Me chamo Raphael Zibetti Resko
+#Raphael Zibetti Resko
 
 Sou estudante de programação com foco em Java. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
 
