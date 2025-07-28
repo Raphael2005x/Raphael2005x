@@ -1,6 +1,6 @@
 # Raphael Zibetti Resko
 
-Sou estudante de programação com foco em Java. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
+Sou estudante de programação. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
