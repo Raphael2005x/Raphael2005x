@@ -4,6 +4,12 @@ Sou estudante de programação. Estou sempre em busca de novos aprendizados e de
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Java" height="45" width="45" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  
+
+
 </div>
   
   ##
