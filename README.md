@@ -1,4 +1,4 @@
-# Raphael Zibetti Resko
+# Raphael Zibetti Resko #OpenToWork
 
 Sou estudante de programação. Estou sempre em busca de novos aprendizados e desafios para evoluir na área de desenvolvimento de software.
 
